@@ -8,4 +8,4 @@ Some cool animations I wrote while learning compose
   
 ### Discuss 💬  
   
-Have any questions, doubts or want to present your opinions, views? You're always welcome. You can [start discussions](https://github.com/omkar-tenkale/JetpackComposeAnimationShowcase/discussions)
+Have any questions, doubts or want to present your opinions, views? You're always welcome. You can [start a discussion](https://github.com/omkar-tenkale/JetpackComposeAnimationShowcase/discussions)
